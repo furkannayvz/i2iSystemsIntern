@@ -1,0 +1,1 @@
+Bu çalışma kapsamında, Hazelcast'in dağıtık önbellekleme ve veri yönetimi çözümlerini test etmek amacıyla Hazelcast ve Hazelcast Management Center container'ları, Docker kullanılarak yerel makinede çalıştırılmıştır.
