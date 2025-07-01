@@ -1,0 +1,1 @@
+Bu çalışmada, Google Cloud Platform (GCP) veya Amazon Web Services (AWS) üzerinde basit bir sanal makine (VM) oluşturulmuş ve bu makineye yerel bilgisayardan (local machine) ping testi gerçekleştirilmiştir. Bu test, temel ağ bağlantısını ve bulut sunucusunun dış erişime açık olup olmadığını kontrol etmek için yapılmıştır.
