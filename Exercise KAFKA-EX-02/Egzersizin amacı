@@ -1,0 +1,2 @@
+ Kafka Docker Container Kurulumu ve Çalıştırılması
+Bu ödev kapsamında, Docker Hub üzerindeki resmi Confluent Kafka imajı kullanılarak Kafka container'ı çekilmiş ve çalıştırılmıştır. Öncelikle yerel makinede (local machine) kurulum gerçekleştirilmiş, ardından isteğe bağlı olarak bulut ortamına (AWS veya GCP) geçiş yapılabileceği belirtilmiştir.
